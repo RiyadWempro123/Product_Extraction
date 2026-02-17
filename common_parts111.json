@@ -1,0 +1,212 @@
+[
+    {
+        "Item": 29,
+        "Description": "Nut (1/4\u201d - 20)",
+        "Qty": 20,
+        "Part_No": "93828",
+        "Material": "SS"
+    },
+    {
+        "Item": 134,
+        "Description": "Flange Bolt (1/4\u201d - 20 x 3\u201d)",
+        "Qty": 4,
+        "Part_No": "96487",
+        "Material": "SS"
+    },
+    {
+        "Item": 236,
+        "Description": "Nut (1/4\u201d - 20)",
+        "Qty": 4,
+        "Part_No": "Y12-4-S",
+        "Material": "SS"
+    },
+    {
+        "Item": 126,
+        "Description": "Pipe Plug",
+        "Qty": 2,
+        "Part_No": "93832-3",
+        "Material": "K"
+    },
+    {
+        "Item": 141,
+        "Description": "Valve Plate",
+        "Qty": 1,
+        "Part_No": "96173",
+        "Material": "CK"
+    },
+    {
+        "Item": 170,
+        "Description": "Spool Bushing",
+        "Qty": 1,
+        "Part_No": "96090",
+        "Material": "D"
+    },
+    {
+        "Item": 43,
+        "Description": "Ground Strap",
+        "Qty": 1,
+        "Part_No": "-----",
+        "Material": "---"
+    },
+    {
+        "Item": 129,
+        "Description": "Muffler Baffle (PX03P-XXX-XXX-AX0X)",
+        "Qty": 1,
+        "Part_No": "96542",
+        "Material": "P"
+    },
+    {
+        "Item": 135,
+        "Description": "Valve Block",
+        "Qty": 1,
+        "Part_No": "96204",
+        "Material": "PPG"
+    },
+    {
+        "Item": 140,
+        "Description": "Valve Insert",
+        "Qty": 1,
+        "Part_No": "93276",
+        "Material": "CK"
+    },
+    {
+        "Item": 118,
+        "Description": "Actuator Pin",
+        "Qty": 2,
+        "Part_No": "94874-1",
+        "Material": "SS"
+    },
+    {
+        "Item": 77,
+        "Description": "Logo Plate",
+        "Qty": 2,
+        "Part_No": "93264",
+        "Material": "A"
+    },
+    {
+        "Item": 101,
+        "Description": "Center Body",
+        "Qty": 1,
+        "Part_No": "97008",
+        "Material": "PPG"
+    },
+    {
+        "Item": 61,
+        "Description": "Outlet Manifold (NPTF)",
+        "Qty": 1,
+        "Part_No": "96469-1",
+        "Material": "P"
+    },
+    {
+        "Item": 123,
+        "Description": "Screw (#4 - 20 x 1/2\u201d)",
+        "Qty": 12,
+        "Part_No": "96093",
+        "Material": "SS"
+    },
+    {
+        "Item": 17,
+        "Description": "Dual Outlet Manifold",
+        "Qty": 2,
+        "Part_No": "96520-1",
+        "Material": "P"
+    },
+    {
+        "Item": 168,
+        "Description": "\u201cO\u201d Ring (1/16\u201d x 7/16\u201d OD)",
+        "Qty": 2,
+        "Part_No": "96459",
+        "Material": "U"
+    },
+    {
+        "Item": 19,
+        "Description": "O\u201d Ring (3/32\u201d x 1-1/8\u201d OD)",
+        "Qty": 4,
+        "Part_No": "96514",
+        "Material": "T"
+    },
+    {
+        "Item": 111,
+        "Description": "Major Valve Spool (PX03P)",
+        "Qty": 1,
+        "Part_No": "95919",
+        "Material": "D"
+    },
+    {
+        "Item": 130,
+        "Description": "Gasket",
+        "Qty": 1,
+        "Part_No": "96531",
+        "Material": "SY"
+    },
+    {
+        "Item": 26,
+        "Description": "Bolt (1/4\u201d - 20 x 1-1/8\u201d)",
+        "Qty": 8,
+        "Part_No": "96471",
+        "Material": "SS"
+    },
+    {
+        "Item": 27,
+        "Description": "Bolt (1/4\u201d - 20 x 1-1/8\u201d)",
+        "Qty": 12,
+        "Part_No": "96471",
+        "Material": "SS"
+    },
+    {
+        "Item": 18,
+        "Description": "Dual Inlet Manifold",
+        "Qty": 2,
+        "Part_No": "96519-1",
+        "Material": "P"
+    },
+    {
+        "Item": 169,
+        "Description": "\u201cU\u201d Cup Packing (1/8\u201d x 5/8\u201d OD)",
+        "Qty": 1,
+        "Part_No": "96384",
+        "Material": "U"
+    },
+    {
+        "Item": 63,
+        "Description": "Pipe Plug (NPTF)",
+        "Qty": 1,
+        "Part_No": "-----",
+        "Material": "---"
+    },
+    {
+        "Item": 6,
+        "Description": "Diaphragm Nut (1/4\u201d - 20)",
+        "Qty": 2,
+        "Part_No": "93810-7",
+        "Material": "P"
+    },
+    {
+        "Item": 60,
+        "Description": "Inlet Manifold (NPTF)",
+        "Qty": 1,
+        "Part_No": "96468-1",
+        "Material": "P"
+    },
+    {
+        "Item": 5,
+        "Description": "Diaphragm Washer",
+        "Qty": 2,
+        "Part_No": "96556",
+        "Material": "GFN"
+    },
+    {
+        "Item": 57,
+        "Description": "Ground Kit Assembly (not shown)",
+        "Qty": 1,
+        "Part_No": "-----",
+        "Material": "---"
+    },
+    {
+        "Item": 15,
+        "Description": "Fluid Cap",
+        "Qty": 2,
+        "Part_No": "96460-1",
+        "Material": "P"
+    }
+]

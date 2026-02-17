@@ -1,0 +1,80 @@
+AIR SECTION PARTS,,,,,,,,,
+Item,Description,Part no,Qty,[Mtl],Item,Description,Part no,Qty,[Mtl]
+74,Plug (PD01X),93832-3,(2),[K],,"Barrier Amplifier, End of Stroke
+ATEX/IECEx
+(PXXXX-XXX-XXX-XXGX),
+(PXXXX-XXX-XXX-XXHX)",97491,(1),
+101,Center Body,,,,,,,,
+,(PX01P),23981608,(1),[P],,,,,
+,(PX01E),97419,(1),[GP],,"Barrier Amplifier, End of Stroke
+NEC/CEC
+(PXXXX-XXX-XXX-XXRX),
+(PXXXX-XXX-XXX-XXTX)",97412,(1),
+107,Valve Block Plug,,,,,,,,
+,"(PD01X, PE01X-XXX-XXX-X0XX)",23981434,(1),[P],,,,,
+,(All PE01X with Solenoid),23981848,(1),[P],,"ZENER Barrier Leak Detection ATEX
+(PXXXX-XXX-XXX-XXHX),
+(PXXXX-XXX-XXX-XXMX),
+(PXXXX-XXX-XXX-XXTX)",97414,(1),
+111,"Major Valve Spool Asm
+(includes seals)",,,,,,,,
+,"(PD01X, PE01X-XXX-XXX-X0XX)",24028268,(1),[D],,,,,
+,,,,,403,Valve (AII PE01X with SoIenoid),114102,(1),
+,(All PE01X with Solenold),24086779,(1),[D],413,Coil Nut (All PE01X with Solenoid),119380,(1),
+129,Muffler Baffle,,,,414,"Coil ,120VAC
+(PE01X-XXX-XXX-XAXX)",116218-33,(1),
+,"(PD01X, PE01X-XXX-XXX-XX0X), (PE01X-XXX-
+XXX-XXLX), (PE01X-XXX-XXX-XXMX)",23981475,(1),[P],,,,,
+,,,,,,"Coil ,24VAC , 12VDC
+(PE01X-XXX-XXX-XBXX)",116218-38,(1),
+,"(PE01X-XXX-XXX-XXEX),
+(PE01X-XXX-XXX-XXFX)",24110934,(1),[P],,,,,
+,,,,,,"Coil ,240VAC
+(PE01X-XXX-XXX-XCXX)",116218-35,(1),
+,"(PE01X-XXX-XXX-XXGX),
+(PE01X-XXX-XXX-XXHX),
+(PE01X-XXX-XXX-XXRX),
+(PE01X-XXX-XXX-XXTX)",97404,(1),[P],,,,,
+,,,,,,"Coil ,48VAC, 24VDC
+(PE01X-XXX-XXX-XDXX)",116218-39,(1),
+,,,,,,"Coil, ATEX/IECEx, 12VDC
+(PE01X-XXX-XXX-XGXX)",117345-38,(1),
+132,Gasket,23981525,(1),[B],,,,,
+135,Valve Block Assembly,,,,,,,,
+,,,,,,"Coil, ATEX/IECEx, 24VDC
+(PE01X-XXX-XXX-XHXX)",117345-39,(1),
+,"(PD01X, PE01X-XXX-XXX-X0XX)",24243388,(1),[P],,,,,
+,(All PE01X with Solenoid),24340275,(1),[P],,"Coil, ATEX/IECEx, 220VAC
+(PE01X-XXX-XXX-XKXX)",117345-35,(1),
+137,O-Ring (0.070 CS x 0.676 ID),Y325-17,(1),[B],,,,,
+,,,,,,"Coil, 12VDC NEC/CEC
+(PE01X-XXX-XXX-XEXX)",114772-38,(1),
+167,"Pilot Valve Spool Assembly
+(includes seals)",24028276,(1),[D],,,,,
+173,O-Ring,24243313,(1),[U],,"Coil, 24VDC NEC /CEC
+(PE01X-XXX-XXX-XFXX)",114772-39,(1),
+197,"Leak Detector Sensor Adapter
+(PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",95088,(1),,,,,,
+,,,,,,"Coil, 120VAC NEC/CEC
+(PE01X-XXX-XXX-XJXX)",114772-33,(1),
+198,"Leak Detector Sensor Cable
+(PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",95087,(1),,,,,,
+283,"Leak Detector Sensor
+(PE01X-XXX-XXX-XXEX),
+(PE01X-XXX-XXX-XXLX)",96270-1,(2),,415,O-Ring (AII PE01X with Solenoid),114103,(1),[B]
+,,,,,416,O-Ring (AII PE01X with Solenoid),114104,(1),[B]
+,,,,,417,Screw (AII PE01X with Solenoid),96728647,(2),
+,"Leak Detector Sensor
+ATEX/IECEx
+(PE01X-XXX-XXX-XXHX),
+(PE01X-XXX-XXX-XXMX)",96270-2,(2),,,,,,
+,,,,,418,Tube (AII PE01X with Solenoid),15309974,(1),[SS]
+,,,,,419,Seal (AII PE01X with Solenoid),96957,(1),[B]
+,,,,,420,Snap Ring (AII PE01X with Solenoid),Y147-43,(1),
+,"Leak Detector Sensor
+NEC/CEC
+(PE01X-XXX-XXX-XXMX),
+(PE01X-XXX-XXX-XXTX)",96270-2,(2),,,,,,
+,,,,,421,Retainer (AII PE01X with Solenoid),15309990,(1),[B]
+,,,,,429,"Solenoid Muffler
+(AII PE01X with Solenoid)",116464,(1),

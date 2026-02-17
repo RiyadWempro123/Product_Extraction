@@ -1,0 +1,462 @@
+[
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Description",
+        "Variant_Notes": "Description",
+        "Part_No": "Part no",
+        "Qty": null,
+        "Material": "Mtl",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 74,
+        "Description": "Plug (PD01X)",
+        "Variant_Notes": null,
+        "Part_No": "93832-3",
+        "Qty": 2,
+        "Material": "K",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PX01P)",
+        "Variant_Notes": "(PX01P)",
+        "Part_No": "23981608",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PX01E)",
+        "Variant_Notes": "(PX01E)",
+        "Part_No": "97419",
+        "Qty": 1,
+        "Material": "GP",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Variant_Notes": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Part_No": "23981434",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(All PE01X with Solenoid)",
+        "Variant_Notes": "(All PE01X with Solenoid)",
+        "Part_No": "23981848",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Variant_Notes": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Part_No": "24028268",
+        "Qty": 1,
+        "Material": "D",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(All PE01X with Solenold)",
+        "Variant_Notes": "(All PE01X with Solenold)",
+        "Part_No": "24086779",
+        "Qty": 1,
+        "Material": "D",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PD01X, PE01X-XXX-XXX-XX0X), (PE01X-XXX- XXX-XXLX), (PE01X-XXX-XXX-XXMX)",
+        "Variant_Notes": "(PD01X, PE01X-XXX-XXX-XX0X), (PE01X-XXX- XXX-XXLX), (PE01X-XXX-XXX-XXMX)",
+        "Part_No": "23981475",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXFX)",
+        "Variant_Notes": "(PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXFX)",
+        "Part_No": "24110934",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PE01X-XXX-XXX-XXGX), (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXRX), (PE01X-XXX-XXX-XXTX)",
+        "Variant_Notes": "(PE01X-XXX-XXX-XXGX), (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXRX), (PE01X-XXX-XXX-XXTX)",
+        "Part_No": "97404",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 132,
+        "Description": "Gasket",
+        "Variant_Notes": null,
+        "Part_No": "23981525",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Variant_Notes": "(PD01X, PE01X-XXX-XXX-X0XX)",
+        "Part_No": "24243388",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "(All PE01X with Solenoid)",
+        "Variant_Notes": "(All PE01X with Solenoid)",
+        "Part_No": "24340275",
+        "Qty": 1,
+        "Material": "P",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 137,
+        "Description": "O-Ring (0.070 CS x 0.676 ID)",
+        "Variant_Notes": null,
+        "Part_No": "Y325-17",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 167,
+        "Description": "Pilot Valve Spool Assembly (includes seals)",
+        "Variant_Notes": null,
+        "Part_No": "24028276",
+        "Qty": 1,
+        "Material": "D",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 173,
+        "Description": "O-Ring",
+        "Variant_Notes": null,
+        "Part_No": "24243313",
+        "Qty": 1,
+        "Material": "U",
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 197,
+        "Description": "Leak Detector Sensor Adapter (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+        "Variant_Notes": null,
+        "Part_No": "95088",
+        "Qty": 1,
+        "Material": null,
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 198,
+        "Description": "Leak Detector Sensor Cable (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+        "Variant_Notes": null,
+        "Part_No": "95087",
+        "Qty": 1,
+        "Material": null,
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 283,
+        "Description": "Leak Detector Sensor (PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXLX)",
+        "Variant_Notes": null,
+        "Part_No": "96270-1",
+        "Qty": 2,
+        "Material": null,
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Leak Detector Sensor ATEX/IECEx (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXMX)",
+        "Variant_Notes": "Leak Detector Sensor ATEX/IECEx (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXMX)",
+        "Part_No": "96270-2",
+        "Qty": 2,
+        "Material": null,
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Leak Detector Sensor NEC/CEC (PE01X-XXX-XXX-XXMX), (PE01X-XXX-XXX-XXTX)",
+        "Variant_Notes": "Leak Detector Sensor NEC/CEC (PE01X-XXX-XXX-XXMX), (PE01X-XXX-XXX-XXTX)",
+        "Part_No": "96270-2",
+        "Qty": 2,
+        "Material": null,
+        "Side": "LEFT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Description",
+        "Variant_Notes": "Description",
+        "Part_No": "Part no",
+        "Qty": null,
+        "Material": "Mtl",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Barrier Amplifier, End of Stroke ATEX/IECEx (PXXXX-XXX-XXX-XXGX), (PXXXX-XXX-XXX-XXHX)",
+        "Variant_Notes": "Barrier Amplifier, End of Stroke ATEX/IECEx (PXXXX-XXX-XXX-XXGX), (PXXXX-XXX-XXX-XXHX)",
+        "Part_No": "97491",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Barrier Amplifier, End of Stroke NEC/CEC (PXXXX-XXX-XXX-XXRX), (PXXXX-XXX-XXX-XXTX)",
+        "Variant_Notes": "Barrier Amplifier, End of Stroke NEC/CEC (PXXXX-XXX-XXX-XXRX), (PXXXX-XXX-XXX-XXTX)",
+        "Part_No": "97412",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "ZENER Barrier Leak Detection ATEX (PXXXX-XXX-XXX-XXHX), (PXXXX-XXX-XXX-XXMX), (PXXXX-XXX-XXX-XXTX)",
+        "Variant_Notes": "ZENER Barrier Leak Detection ATEX (PXXXX-XXX-XXX-XXHX), (PXXXX-XXX-XXX-XXMX), (PXXXX-XXX-XXX-XXTX)",
+        "Part_No": "97414",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 403,
+        "Description": "Valve (AII PE01X with SoIenoid)",
+        "Variant_Notes": null,
+        "Part_No": "114102",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 413,
+        "Description": "Coil Nut (All PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "119380",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 414,
+        "Description": "Coil ,120VAC (PE01X-XXX-XXX-XAXX)",
+        "Variant_Notes": null,
+        "Part_No": "116218-33",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil ,24VAC , 12VDC (PE01X-XXX-XXX-XBXX)",
+        "Variant_Notes": "Coil ,24VAC , 12VDC (PE01X-XXX-XXX-XBXX)",
+        "Part_No": "116218-38",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil ,240VAC (PE01X-XXX-XXX-XCXX)",
+        "Variant_Notes": "Coil ,240VAC (PE01X-XXX-XXX-XCXX)",
+        "Part_No": "116218-35",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil ,48VAC, 24VDC (PE01X-XXX-XXX-XDXX)",
+        "Variant_Notes": "Coil ,48VAC, 24VDC (PE01X-XXX-XXX-XDXX)",
+        "Part_No": "116218-39",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, ATEX/IECEx, 12VDC (PE01X-XXX-XXX-XGXX)",
+        "Variant_Notes": "Coil, ATEX/IECEx, 12VDC (PE01X-XXX-XXX-XGXX)",
+        "Part_No": "117345-38",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, ATEX/IECEx, 24VDC (PE01X-XXX-XXX-XHXX)",
+        "Variant_Notes": "Coil, ATEX/IECEx, 24VDC (PE01X-XXX-XXX-XHXX)",
+        "Part_No": "117345-39",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, ATEX/IECEx, 220VAC (PE01X-XXX-XXX-XKXX)",
+        "Variant_Notes": "Coil, ATEX/IECEx, 220VAC (PE01X-XXX-XXX-XKXX)",
+        "Part_No": "117345-35",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, 12VDC NEC/CEC (PE01X-XXX-XXX-XEXX)",
+        "Variant_Notes": "Coil, 12VDC NEC/CEC (PE01X-XXX-XXX-XEXX)",
+        "Part_No": "114772-38",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, 24VDC NEC /CEC (PE01X-XXX-XXX-XFXX)",
+        "Variant_Notes": "Coil, 24VDC NEC /CEC (PE01X-XXX-XXX-XFXX)",
+        "Part_No": "114772-39",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": null,
+        "Description": "Coil, 120VAC NEC/CEC (PE01X-XXX-XXX-XJXX)",
+        "Variant_Notes": "Coil, 120VAC NEC/CEC (PE01X-XXX-XXX-XJXX)",
+        "Part_No": "114772-33",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 415,
+        "Description": "O-Ring (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "114103",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 416,
+        "Description": "O-Ring (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "114104",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 417,
+        "Description": "Screw (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "96728647",
+        "Qty": 2,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 418,
+        "Description": "Tube (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "15309974",
+        "Qty": 1,
+        "Material": "SS",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 419,
+        "Description": "Seal (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "96957",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 420,
+        "Description": "Snap Ring (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "Y147-43",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 421,
+        "Description": "Retainer (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "15309990",
+        "Qty": 1,
+        "Material": "B",
+        "Side": "RIGHT"
+    },
+    {
+        "Section": "AIR SECTION PARTS",
+        "Item": 429,
+        "Description": "Solenoid Muffler (AII PE01X with Solenoid)",
+        "Variant_Notes": null,
+        "Part_No": "116464",
+        "Qty": 1,
+        "Material": null,
+        "Side": "RIGHT"
+    }
+]

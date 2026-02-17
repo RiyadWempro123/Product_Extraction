@@ -1,0 +1,166 @@
+{
+  "Model Series": [
+    {
+      "code": "PD01",
+      "description": "Standard Pump"
+    },
+    {
+      "code": "PE01",
+      "description": "Electronic Interface"
+    }
+  ],
+  "Center Body Material": [
+    {
+      "code": "E",
+      "description": "Groundable Polypropylene"
+    },
+    {
+      "code": "P",
+      "description": "Polypropylene"
+    }
+  ],
+  "Connection": [],
+  "Fluid Caps / Manifold Material": [
+    {
+      "code": "D",
+      "description": "Groundable Acetal"
+    },
+    {
+      "code": "E",
+      "description": "Groundable Acetal (Multiple port)"
+    },
+    {
+      "code": "K",
+      "description": "Kynar PVDF"
+    },
+    {
+      "code": "L",
+      "description": "Kynar PVDF (Multiple port)"
+    },
+    {
+      "code": "P",
+      "description": "Polypropylene"
+    },
+    {
+      "code": "R",
+      "description": "Polypropylene (Multiple port)"
+    }
+  ],
+  "Hardware Material": [
+    {
+      "code": "S",
+      "description": "Stainless Steel"
+    }
+  ],
+  "Seat / Spacer Material": [
+    {
+      "code": "D",
+      "description": "Acetal"
+    },
+    {
+      "code": "K",
+      "description": "Kynar PVDF"
+    },
+    {
+      "code": "P",
+      "description": "Polypropylene"
+    },
+    {
+      "code": "0",
+      "description": "Polypropylene (Flex Check Spacer)"
+    },
+    {
+      "code": "1",
+      "description": "Acetal (Flex Check Spacer)"
+    },
+    {
+      "code": "2",
+      "description": "PVDF (Flex Check Spacer)"
+    }
+  ],
+  "Check Material": [
+    {
+      "code": "A",
+      "description": "Santropene"
+    },
+    {
+      "code": "C",
+      "description": "Hytrel"
+    },
+    {
+      "code": "G",
+      "description": "Nitrile"
+    },
+    {
+      "code": "J",
+      "description": "Nitrile (flex check only)"
+    },
+    {
+      "code": "K",
+      "description": "EPR (flex check only)"
+    },
+    {
+      "code": "L",
+      "description": "Viton (flex check only)"
+    },
+    {
+      "code": "N",
+      "description": "Neoprene (flex check only)"
+    }
+  ],
+  "Diaphragm / O-Ring Material": [
+    {
+      "code": "A",
+      "description": "Santoprene"
+    },
+    {
+      "code": "C",
+      "description": "Hytrel"
+    },
+    {
+      "code": "G",
+      "description": "Nitrile"
+    }
+  ],
+  "Revision": [
+    {
+      "code": "A",
+      "description": "Revision"
+    }
+  ],
+  "Specialty Code 1": [],
+  "Specialty Code 2": [
+    {
+      "code": "E",
+      "description": "End of Stroke feedback + Leak Detection"
+    },
+    {
+      "code": "F",
+      "description": "End of Stroke feedback"
+    },
+    {
+      "code": "G",
+      "description": "End of Stroke ATEX/IECEx"
+    },
+    {
+      "code": "H",
+      "description": "End of Stroke + Leak Detection ATEX/IECEx"
+    },
+    {
+      "code": "L",
+      "description": "Leak Detection"
+    },
+    {
+      "code": "M",
+      "description": "Leak Detection ATEX/IECEx / NEC/CEC"
+    },
+    {
+      "code": "R",
+      "description": "End of Stroke Feedback NEC/CEC"
+    },
+    {
+      "code": "T",
+      "description": "End of Stroke Feedback + Leak Detection NEC/CEC"
+    }
+  ]
+}

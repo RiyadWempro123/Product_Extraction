@@ -1,0 +1,10 @@
+FLUID CONNECTION,,,,,,,,,,
+PX01X-XXX-XXX-AXXX,,,,,,,,,,
+,,PX01X-HES,,,PX01X-HLS,,,PX01X-HRS,,
+Item,Description,Part no,[Mtl],Qty,Part no,[Mtl],Qty,Part no,[Mtl],Qty
+6,Diaphragm Screw,93810-2,[D],(2),93810-3,[K],(2),93810-7,[P],(2)
+15,Fluid Cap,23981640,[D],(2),23981657,[K],(2),23981632,[P],(2)
+60,Inlet Manifold,47516487001,[D],(1),47516488001,[K],(1),47516486001,[P],(1)
+61,Outlet Manifold,47516490001,[D],(1),47516491001,[K],(1),47516489001,[P],(1)
+43,Ground Lug,93004,[Co],(1),---,,,---,,
+63,Pipe Plug,93832-2,[D],(4),93832-3,[K],(4),93832-1,[P],(4)

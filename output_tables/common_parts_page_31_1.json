@@ -1,0 +1,93 @@
+[
+    {
+        "Item":37,
+        "Description":"Clamp",
+        "Qty":4.0,
+        "Part_No":"93283",
+        "Material":"SS"
+    },
+    {
+        "Item":38,
+        "Description":"Carriage Bolt (1\/4” x 20 - 6g x 1-1\/2”)",
+        "Qty":4.0,
+        "Part_No":"Y84-403-T",
+        "Material":"SS"
+    },
+    {
+        "Item":39,
+        "Description":"Nut (1\/4” - 20)",
+        "Qty":4.0,
+        "Part_No":"Y12-4-S",
+        "Material":"SS"
+    },
+    {
+        "Item":42,
+        "Description":"Bellows, PRV",
+        "Qty":1.0,
+        "Part_No":"97981",
+        "Material":"T"
+    },
+    {
+        "Item":43,
+        "Description":"O-Ring (1\/8” x 2-5\/8” OD)",
+        "Qty":1.0,
+        "Part_No":"Y327-229",
+        "Material":"V"
+    },
+    {
+        "Item":45,
+        "Description":"Rod, PRV",
+        "Qty":1.0,
+        "Part_No":"97980",
+        "Material":"SS"
+    },
+    {
+        "Item":46,
+        "Description":"Cylinder, PRV",
+        "Qty":1.0,
+        "Part_No":"97982-2",
+        "Material":"SS"
+    },
+    {
+        "Item":47,
+        "Description":"Piston, PRV",
+        "Qty":1.0,
+        "Part_No":"97979",
+        "Material":"D"
+    },
+    {
+        "Item":48,
+        "Description":"O-Ring (3\/16\" x 2\" OD)",
+        "Qty":1.0,
+        "Part_No":"Y327-326",
+        "Material":"V"
+    },
+    {
+        "Item":49,
+        "Description":"Spring, PRV",
+        "Qty":1.0,
+        "Part_No":"97978",
+        "Material":"C"
+    },
+    {
+        "Item":50,
+        "Description":"Cap Spring, PRV",
+        "Qty":1.0,
+        "Part_No":"97972-2",
+        "Material":"SS"
+    },
+    {
+        "Item":51,
+        "Description":"Fitting (3\/8” OD Tube x 1\/4” NPT)",
+        "Qty":1.0,
+        "Part_No":"59474-160",
+        "Material":"Ny"
+    },
+    {
+        "Item":196,
+        "Description":"Tubing (3\/8\" OD Clear)",
+        "Qty":0.6,
+        "Part_No":"98227-XXX-X",
+        "Material":"F"
+    }
+]

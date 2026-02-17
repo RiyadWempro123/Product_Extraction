@@ -1,0 +1,107 @@
+[
+  {
+    "item": "74",
+    "description": "Plug (PD01X)    Barrier Amplifier, End of Stroke ATEX/IECEx (PXXXX-XXX-XXX-XXGX), (PXXXX-XXX-XXX-XXHX) 991 (1)",
+    "part_no": "93832-3",
+    "qty": "2",
+    "material": "K"
+  },
+  {
+    "item": "403",
+    "description": "Valve (AII PE0X with SoIenoid)",
+    "part_no": "114102",
+    "qty": "1",
+    "material": null
+  },
+  {
+    "item": "129",
+    "description": "Muffler Baffle 44 Coil ,20VAC (PE0X-XXX-XXX-XAXX)",
+    "part_no": "116218-33",
+    "qty": "1",
+    "material": null
+  },
+  {
+    "item": "132",
+    "description": "Gasket",
+    "part_no": "23981525",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "167",
+    "description": "Pilot Valve Spool Assembly (includes seals)",
+    "part_no": "24028276",
+    "qty": "1",
+    "material": "D"
+  },
+  {
+    "item": "173",
+    "description": "O-Ring    Coil, 24VDC NEC /CEC (PE0X-XXX-XXX-XFXX) 4772-39",
+    "part_no": "24243313",
+    "qty": "1",
+    "material": "U"
+  },
+  {
+    "item": "197",
+    "description": "Leak Detector Sensor Adapter (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+    "part_no": "95088",
+    "qty": "1",
+    "material": null
+  },
+  {
+    "item": "198",
+    "description": "Leak Detector Sensor Cable (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+    "part_no": "95087",
+    "qty": "1",
+    "material": null
+  },
+  {
+    "item": "283",
+    "description": "Leak Detector Sensor (PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXLX)   415 O-Ring (AII PE01X with Solenoid) 114103 (1)",
+    "part_no": "96270-1",
+    "qty": "2",
+    "material": "B"
+  },
+  {
+    "item": "416",
+    "description": "O-Ring (AII PE0X with Solenoid)",
+    "part_no": "114104",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "417",
+    "description": "Screw (AII PE01X with Solenoid)",
+    "part_no": "96728647",
+    "qty": "2",
+    "material": null
+  },
+  {
+    "item": "418",
+    "description": "Tube (AII PE0X with Solenoid)",
+    "part_no": "15309974",
+    "qty": "1",
+    "material": "SS"
+  },
+  {
+    "item": "419",
+    "description": "Seal (AII PE0X with Solenoid)",
+    "part_no": "96957",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "421",
+    "description": "Retainer (AII PE0X with Solenoid)",
+    "part_no": "15309990",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "429",
+    "description": "Solenoid Muffler (AII PE0X with Solenoid)",
+    "part_no": "116464",
+    "qty": "1",
+    "material": null
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "PX01X-XXX": [],
+  "PX01X-HDS": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-2",
+      "material": "D",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981640",
+      "material": "D",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "23981681",
+      "material": "D",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "23981723",
+      "material": "D",
+      "qty": 1
+    }
+  ],
+  "PX01X-HKS": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-3",
+      "material": "K",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981657",
+      "material": "K",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "23981699",
+      "material": "K",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "23981731",
+      "material": "K",
+      "qty": 1
+    }
+  ],
+  "PX01X-HPS": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-7",
+      "material": "P",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981632",
+      "material": "P",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "23981673",
+      "material": "P",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "23981715",
+      "material": "P",
+      "qty": 1
+    }
+  ],
+  "PX01X-HES": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-2",
+      "material": "D",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981640",
+      "material": "D",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "47516487001",
+      "material": "D",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "47516490001",
+      "material": "D",
+      "qty": 1
+    },
+    {
+      "item": 63,
+      "description": "Pipe Plug",
+      "part_no": "93832-2",
+      "material": "D",
+      "qty": 4
+    }
+  ],
+  "PX01X-HLS": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-3",
+      "material": "K",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981657",
+      "material": "K",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "47516488001",
+      "material": "K",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "47516491001",
+      "material": "K",
+      "qty": 1
+    },
+    {
+      "item": 63,
+      "description": "Pipe Plug",
+      "part_no": "93832-3",
+      "material": "K",
+      "qty": 4
+    }
+  ],
+  "PX01X-HRS": [
+    {
+      "item": 6,
+      "description": "Diaphragm Screw",
+      "part_no": "93810-7",
+      "material": "P",
+      "qty": 2
+    },
+    {
+      "item": 15,
+      "description": "Fluid Cap",
+      "part_no": "23981632",
+      "material": "P",
+      "qty": 2
+    },
+    {
+      "item": 60,
+      "description": "Inlet Manifold",
+      "part_no": "47516486001",
+      "material": "P",
+      "qty": 1
+    },
+    {
+      "item": 61,
+      "description": "Outlet Manifold",
+      "part_no": "47516489001",
+      "material": "P",
+      "qty": 1
+    },
+    {
+      "item": 63,
+      "description": "Pipe Plug",
+      "part_no": "93832-1",
+      "material": "P",
+      "qty": 4
+    }
+  ]
+}

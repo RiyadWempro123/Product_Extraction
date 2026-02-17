@@ -1,0 +1,75 @@
+{
+  "table_name": "DIAPHRAGM OPTIONS",
+  "model": "PX03P-XXS-XXX-AXXX",
+  "options": [
+    {
+      "option_code": "-XXA",
+      "service_kit": "637429-XA",
+      "components": {
+        "diaphragm_7": {
+          "part_no": "96533-A",
+          "qty": 2,
+          "material": "Sp"
+        },
+        "o_ring_19": {
+          "part_no": "93761",
+          "qty": 4,
+          "material": "E"
+        }
+      }
+    },
+    {
+      "option_code": "-XXC",
+      "service_kit": "637429-XC",
+      "components": {
+        "diaphragm_7": {
+          "part_no": "96533-C",
+          "qty": 2,
+          "material": "H"
+        },
+        "o_ring_19": {
+          "part_no": "Y325-119",
+          "qty": 4,
+          "material": "B"
+        }
+      }
+    },
+    {
+      "option_code": "-XXT",
+      "service_kit": "637429-XT",
+      "components": {
+        "diaphragm_7": {
+          "part_no": "96538",
+          "qty": 2,
+          "material": "T"
+        },
+        "diaphragm_8": {
+          "part_no": "96533-A",
+          "qty": 2,
+          "material": "Sp"
+        },
+        "o_ring_19": {
+          "part_no": "96514",
+          "qty": 4,
+          "material": "T"
+        }
+      }
+    },
+    {
+      "option_code": "-XXV",
+      "service_kit": "637429-XV",
+      "components": {
+        "diaphragm_7": {
+          "part_no": "96558",
+          "qty": 2,
+          "material": "V"
+        },
+        "o_ring_19": {
+          "part_no": "Y327-119",
+          "qty": 4,
+          "material": "V"
+        }
+      }
+    }
+  ]
+}

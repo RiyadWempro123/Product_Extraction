@@ -1,0 +1,51 @@
+{
+  "Wetted Parts": {
+    "E": "Conductive Polypropylene",
+    "P": "Polypropylene"
+  },
+  "Port": {
+    "F": "ANSI / DIN Hybrid Flange"
+  },
+  "Seat": {
+    "H": "440 SST",
+    "P": "Polypropylene",
+    "S": "316 SST"
+  },
+  "Ball": {
+    "A": "Santoprene®",
+    "S": "316 SST",
+    "T": "PTFE",
+    "V": "Viton®"
+  },
+  "Diaphragms": {
+    "A": "Santoprene®",
+    "T": "PTFE"
+  },
+  "Pump Crank case": {
+    "C": "Cast Iron"
+  },
+  "Pump Input Shaft": {
+    "S": "Integrated Spline Shaft"
+  },
+  "Bellows": {
+    "V": "Viton®"
+  },
+  "Motor": {
+    "0": "No Motor",
+    "A": "Ordinary Location Motor",
+    "B": "Hazardous Location Motor (IECEx, ATEX, NEC, CEC)",
+    "C": "Hazardous Location Motor (IECEx and ATEX Only)"
+  },
+  "VFD Options": {
+    "0": "None",
+    "A": "200 - 240V, 50/60 Hz, Ordinary Drive",
+    "B": "200 - 240V, 50/60 Hz, Hazardous Drive",
+    "C": "380 - 500V, 50/60 Hz, Ordinary Drive",
+    "D": "380 - 500V, 50/60 Hz, Hazardous Drive",
+    "E": "525 - 600V, 50/60 Hz, Ordinary Drive",
+    "F": "525 - 600V, 50/60 Hz, Hazardous Drive"
+  },
+  "Revision": {
+    "A": "Revision"
+  }
+}

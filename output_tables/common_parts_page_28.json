@@ -1,0 +1,51 @@
+[
+    {
+        "Item": 12,
+        "Description": "Diaphragm, Soft Washer",
+        "Qty": 3.0,
+        "Part_No": "98161",
+        "Material": "SP"
+    },
+    {
+        "Item": 13,
+        "Description": "Bellows",
+        "Qty": 3.0,
+        "Part_No": "98119-2",
+        "Material": "V"
+    },
+    {
+        "Item": 16,
+        "Description": "Bellows Plate",
+        "Qty": 3.0,
+        "Part_No": "98118-2",
+        "Material": "SS"
+    },
+    {
+        "Item": 17,
+        "Description": "Screw (M5 x 0.8 - 6g x 10 mm)",
+        "Qty": 12.0,
+        "Part_No": "98057",
+        "Material": "SS"
+    },
+    {
+        "Item": 18,
+        "Description": "Spacer, Piston",
+        "Qty": 3.0,
+        "Part_No": "98194",
+        "Material": "C"
+    },
+    {
+        "Item": 20,
+        "Description": "Roll Pin (1/8” x 0.5” length)",
+        "Qty": 6.0,
+        "Part_No": "Y178-37-S",
+        "Material": "SS"
+    },
+    {
+        "Item": 33,
+        "Description": "None",
+        "Qty": null,
+        "Part_No": "None",
+        "Material": null
+    }
+]

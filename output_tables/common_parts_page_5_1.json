@@ -1,0 +1,44 @@
+[
+    {
+        "Item":1,
+        "Description":"Rod Assembly (includes seals)",
+        "Qty":1.0,
+        "Part_No":"24028284",
+        "Material":null
+    },
+    {
+        "Item":5,
+        "Description":"Washer, Diaphragm",
+        "Qty":2.0,
+        "Part_No":"23981541",
+        "Material":"P"
+    },
+    {
+        "Item":77,
+        "Description":"Plate",
+        "Qty":2.0,
+        "Part_No":"93264",
+        "Material":null
+    },
+    {
+        "Item":206,
+        "Description":"Caution Label",
+        "Qty":1.0,
+        "Part_No":"93122",
+        "Material":null
+    },
+    {
+        "Item":207,
+        "Description":"Warning Label",
+        "Qty":1.0,
+        "Part_No":"93616-1",
+        "Material":null
+    },
+    {
+        "Item":26,
+        "Description":"Screw",
+        "Qty":32.0,
+        "Part_No":"23981574",
+        "Material":"SS"
+    }
+]

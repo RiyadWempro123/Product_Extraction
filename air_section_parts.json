@@ -1,0 +1,310 @@
+[
+  {
+    "item": "74",
+    "description": "Plug (PD01X)",
+    "part_no": "93832-3",
+    "qty": "2",
+    "material": "K"
+  },
+  {
+    "item": null,
+    "description": "Barrier Amplifier, End of Stroke ATEX/IECEx (PXXXX-XXX-XXX-XXGX), (PXXXX-XXX-XXX-XXHX)",
+    "part_no": "97491",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "101",
+    "description": "(PX01P)",
+    "part_no": "23981608",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "101",
+    "description": "(PX01E)",
+    "part_no": "97419",
+    "qty": "1",
+    "material": "GP"
+  },
+  {
+    "item": null,
+    "description": "Barrier Amplifier, End of Stroke NEC/CEC (PXXXX-XXX-XXX-XXRX), (PXXXX-XXX-XXX-XXTX)",
+    "part_no": "97412",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "107",
+    "description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+    "part_no": "23981434",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "107",
+    "description": "(All PE01X with Solenoid)",
+    "part_no": "23981848",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": null,
+    "description": "ZENER Barrier Leak Detection ATEX (PXXXX-XXX-XXX-XXHX), (PXXXX-XXX-XXX-XXMX), (PXXXX-XXX-XXX-XXTX)",
+    "part_no": "97414",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "111",
+    "description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+    "part_no": "24028268",
+    "qty": "1",
+    "material": "D"
+  },
+  {
+    "item": "403",
+    "description": "Valve (AII PE01X with SoIenoid)",
+    "part_no": "114102",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "111",
+    "description": "(All PE01X with Solenold)",
+    "part_no": "24086779",
+    "qty": "1",
+    "material": "D"
+  },
+  {
+    "item": "413",
+    "description": "Coil Nut (All PE01X with Solenoid)",
+    "part_no": "119380",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "414",
+    "description": "Coil ,120VAC (PE01X-XXX-XXX-XAXX)",
+    "part_no": "116218-33",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "129",
+    "description": "(PD01X, PE01X-XXX-XXX-XX0X), (PE01X-XXX- XXX-XXLX), (PE01X-XXX-XXX-XXMX)",
+    "part_no": "23981475",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "414",
+    "description": "Coil ,24VAC , 12VDC (PE01X-XXX-XXX-XBXX)",
+    "part_no": "116218-38",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "129",
+    "description": "(PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXFX)",
+    "part_no": "24110934",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "414",
+    "description": "Coil ,240VAC (PE01X-XXX-XXX-XCXX)",
+    "part_no": "116218-35",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "129",
+    "description": "(PE01X-XXX-XXX-XXGX), (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXRX), (PE01X-XXX-XXX-XXTX)",
+    "part_no": "97404",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "414",
+    "description": "Coil ,48VAC, 24VDC (PE01X-XXX-XXX-XDXX)",
+    "part_no": "116218-39",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "414",
+    "description": "Coil, ATEX/IECEx, 12VDC (PE01X-XXX-XXX-XGXX)",
+    "part_no": "117345-38",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "132",
+    "description": "Gasket",
+    "part_no": "23981525",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "414",
+    "description": "Coil, ATEX/IECEx, 24VDC (PE01X-XXX-XXX-XHXX)",
+    "part_no": "117345-39",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "135",
+    "description": "(PD01X, PE01X-XXX-XXX-X0XX)",
+    "part_no": "24243388",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "135",
+    "description": "(All PE01X with Solenoid)",
+    "part_no": "24340275",
+    "qty": "1",
+    "material": "P"
+  },
+  {
+    "item": "414",
+    "description": "Coil, ATEX/IECEx, 220VAC (PE01X-XXX-XXX-XKXX)",
+    "part_no": "117345-35",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "137",
+    "description": "O-Ring (0.070 CS x 0.676 ID)",
+    "part_no": "Y325-17",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "414",
+    "description": "Coil, 12VDC NEC/CEC (PE01X-XXX-XXX-XEXX)",
+    "part_no": "114772-38",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "167",
+    "description": "Pilot Valve Spool Assembly (includes seals)",
+    "part_no": "24028276",
+    "qty": "1",
+    "material": "D"
+  },
+  {
+    "item": "173",
+    "description": "O-Ring",
+    "part_no": "24243313",
+    "qty": "1",
+    "material": "U"
+  },
+  {
+    "item": "414",
+    "description": "Coil, 24VDC NEC /CEC (PE01X-XXX-XXX-XFXX)",
+    "part_no": "114772-39",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "197",
+    "description": "Leak Detector Sensor Adapter (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+    "part_no": "95088",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "414",
+    "description": "Coil, 120VAC NEC/CEC (PE01X-XXX-XXX-XJXX)",
+    "part_no": "114772-33",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "198",
+    "description": "Leak Detector Sensor Cable (PEXX-XXX-XXX-XXEX, PEXX-XXX-XXX-XXLX)",
+    "part_no": "95087",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "283",
+    "description": "Leak Detector Sensor (PE01X-XXX-XXX-XXEX), (PE01X-XXX-XXX-XXLX)",
+    "part_no": "96270-1",
+    "qty": "2",
+    "material": ""
+  },
+  {
+    "item": "415",
+    "description": "O-Ring (AII PE01X with Solenoid)",
+    "part_no": "114103",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "416",
+    "description": "O-Ring (AII PE01X with Solenoid)",
+    "part_no": "114104",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "417",
+    "description": "Screw (AII PE01X with Solenoid)",
+    "part_no": "96728647",
+    "qty": "2",
+    "material": ""
+  },
+  {
+    "item": "283",
+    "description": "Leak Detector Sensor ATEX/IECEx (PE01X-XXX-XXX-XXHX), (PE01X-XXX-XXX-XXMX)",
+    "part_no": "96270-2",
+    "qty": "2",
+    "material": ""
+  },
+  {
+    "item": "418",
+    "description": "Tube (AII PE01X with Solenoid)",
+    "part_no": "15309974",
+    "qty": "1",
+    "material": "SS"
+  },
+  {
+    "item": "419",
+    "description": "Seal (AII PE01X with Solenoid)",
+    "part_no": "96957",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "420",
+    "description": "Snap Ring (AII PE01X with Solenoid)",
+    "part_no": "Y147-43",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "283",
+    "description": "Leak Detector Sensor NEC/CEC (PE01X-XXX-XXX-XXMX), (PE01X-XXX-XXX-XXTX)",
+    "part_no": "96270-2",
+    "qty": "2",
+    "material": ""
+  },
+  {
+    "item": "421",
+    "description": "Retainer (AII PE01X with Solenoid)",
+    "part_no": "15309990",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "429",
+    "description": "Solenoid Muffler (AII PE01X with Solenoid)",
+    "part_no": "116464",
+    "qty": "1",
+    "material": ""
+  }
+]

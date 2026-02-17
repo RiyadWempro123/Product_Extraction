@@ -1,0 +1,240 @@
+{
+  "Model Series": [
+    {
+      "code": "PD03",
+      "description": "Standard Pump"
+    },
+    {
+      "code": "PE03",
+      "description": "Electronic Interface"
+    }
+  ],
+  "Center Body Material": [
+    {
+      "code": "P",
+      "description": "Polypropylene"
+    }
+  ],
+  "Connection": [
+    {
+      "code": "A",
+      "description": "3/8 - 18 NPTF - 1"
+    },
+    {
+      "code": "B",
+      "description": "Rp 3/8 (3/8 - 19 BSP)"
+    }
+  ],
+  "Fluid Caps / Manifold Material": [
+    {
+      "code": "D",
+      "description": "Groundable Acetal (single port)"
+    },
+    {
+      "code": "E",
+      "description": "Groundable Acetal (multiple port)"
+    },
+    {
+      "code": "K",
+      "description": "Kynar PVDF (single port)"
+    },
+    {
+      "code": "L",
+      "description": "Kynar PVDF (multiple port)"
+    },
+    {
+      "code": "P",
+      "description": "Polypropylene (single port)"
+    },
+    {
+      "code": "R",
+      "description": "Polypropylene (multiple port)"
+    }
+  ],
+  "Hardware Material": [
+    {
+      "code": "S",
+      "description": "Stainless Steel"
+    }
+  ],
+  "Seat / Spacer Material": [
+    {
+      "code": "D",
+      "description": "Acetal"
+    },
+    {
+      "code": "K",
+      "description": "Kynar PVDF"
+    },
+    {
+      "code": "P",
+      "description": "Polypropylene"
+    },
+    {
+      "code": "S",
+      "description": "Stainless Steel"
+    },
+    {
+      "code": "0",
+      "description": "(Duckbill)"
+    }
+  ],
+  "Check Material": [
+    {
+      "code": "A",
+      "description": "Santoprene"
+    },
+    {
+      "code": "C",
+      "description": "Hytrel"
+    },
+    {
+      "code": "J",
+      "description": "Nitrile (*)"
+    },
+    {
+      "code": "K",
+      "description": "EPR (*)"
+    },
+    {
+      "code": "L",
+      "description": "Viton (*)"
+    },
+    {
+      "code": "N",
+      "description": "Neoprene (*)"
+    },
+    {
+      "code": "S",
+      "description": "Stainless Steel"
+    },
+    {
+      "code": "T",
+      "description": "PTFE"
+    },
+    {
+      "code": "V",
+      "description": "Viton"
+    }
+  ],
+  "Diaphragm / O-Ring Material": [
+    {
+      "code": "A",
+      "description": "Santoprene"
+    },
+    {
+      "code": "C",
+      "description": "Hytrel"
+    },
+    {
+      "code": "T",
+      "description": "PTFE / Santoprene"
+    },
+    {
+      "code": "V",
+      "description": "Viton"
+    }
+  ],
+  "Revision": [
+    {
+      "code": "A",
+      "description": "Revision"
+    }
+  ],
+  "Specialty Code 1": [
+    {
+      "code": "A",
+      "description": "Solenoid 120 VAC,110 VAC AND 60 VDC"
+    },
+    {
+      "code": "B",
+      "description": "Solenoid 12 VDC, 24 VAC and 22 VAC"
+    },
+    {
+      "code": "C",
+      "description": "Solenoid 240 VAC, 220 VAC AND 120 VDC"
+    },
+    {
+      "code": "D",
+      "description": "Solenoid 24 VDC, 48 VAC and 44 VAC"
+    },
+    {
+      "code": "E",
+      "description": "Solenoid 12 VDC NEC / CEC"
+    },
+    {
+      "code": "F",
+      "description": "Solenoid 24 VDC NEC / CEC"
+    },
+    {
+      "code": "G",
+      "description": "Solenoid 12 VDC ATEX / IECEx"
+    },
+    {
+      "code": "H",
+      "description": "Solenoid 24 VDC ATEX / IECEx"
+    },
+    {
+      "code": "J",
+      "description": "Solenoid 120 VAC NEC / CEC"
+    },
+    {
+      "code": "K",
+      "description": "Solenoid 220VAC ATEX / IECEx"
+    },
+    {
+      "code": "N",
+      "description": "Solenoid with no Coil"
+    },
+    {
+      "code": "P",
+      "description": "Ported Motor (No major valve)"
+    },
+    {
+      "code": "0",
+      "description": "Standard Valve Block (No Solenoid)"
+    },
+    {
+      "code": "S",
+      "description": "Cycle Sensing on Major Valve"
+    }
+  ],
+  "Specialty Code 2": [
+    {
+      "code": "E",
+      "description": "End of Stroke feedback + Leak Detection"
+    },
+    {
+      "code": "F",
+      "description": "End of Stroke feedback"
+    },
+    {
+      "code": "G",
+      "description": "End of Stroke ATEX / IECEx / NEC / CEC"
+    },
+    {
+      "code": "H",
+      "description": "End of Stroke + Leak Detection ATEX / IECEx / NEC / CEC"
+    },
+    {
+      "code": "L",
+      "description": "Leak Detection"
+    },
+    {
+      "code": "M",
+      "description": "Leak Detection ATEX / IECEx / NEC / CEC"
+    },
+    {
+      "code": "R",
+      "description": "End of Stroke NEC"
+    },
+    {
+      "code": "T",
+      "description": "End of Stroke NEC / Leak Detection NEC"
+    },
+    {
+      "code": "0",
+      "description": "No option"
+    }
+  ]
+}

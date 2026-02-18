@@ -29,92 +29,18 @@ def parse_all_tables(dfs):
         if "COMMON PARTS" in df:
             common_parts = common_parts_new.common_parts_to_json(df)
             final_json["common_parts"]=common_parts
-            # print("final_json....................", final_json)
-        if table_contains(df, ["MANIFOLD", "FLUID CAP"]):
-            print("Fluid Cap Table Found")
+            
+        elif table_contains(df, ["MANIFOLD", "FLUID CAP"]):
             print ("df1111111111111111222222222222", df)
+        elif table_contains(df, ["DIAPHRAGM"]):
+            print("DIAPHRAGM Options")
+            print("df33333", df)
+        elif table_contains(df, ["BALL"]):
+            print("df444..", df)
+        
 
    
-        # print("full_text", full_text)
-        # print("df", df)
         
-        
-
-
-        # --------------------------------------------------
-        # 2️⃣ MANIFOLD OPTIONS
-        # --------------------------------------------------
-        elif "MANIFOLD" in full_text and "OPTIONS" in full_text:
-
-            manifold_parts = []
-
-            for _, row in df.iterrows():
-                row_vals = [clean_cell(v) for v in row]
-
-                if row_vals and row_vals[0].isdigit():
-
-                    manifold_parts.append({
-                        "item": row_vals[0],
-                        "description": row_vals[1],
-                        "qty": parse_qty(row_vals[2]),
-                        "part_no": row_vals[3]
-                    })
-
-            final_json["manifold_options"] = manifold_parts
-
-
-        # --------------------------------------------------
-        # 3️⃣ SEAT OPTIONS
-        # --------------------------------------------------
-        elif "SEAT OPTIONS" in full_text:
-
-            seat_options = []
-
-            for _, row in df.iterrows():
-                row_vals = [clean_cell(v) for v in row]
-
-                for i, val in enumerate(row_vals):
-                    if val.startswith("-"):
-                        seat_options.append({
-                            "option_code": val,
-                            "part_no": row_vals[i+1],
-                            "qty": parse_qty(row_vals[i+2]),
-                            "material": row_vals[i+3].replace("[","").replace("]","")
-                        })
-
-            final_json["seat_options"] = seat_options
-
-
-        # --------------------------------------------------
-        # 4️⃣ BALL / DUCKBILL OPTIONS
-        # --------------------------------------------------
-        elif "BALL" in full_text and "OPTIONS" in full_text:
-
-            ball_options = []
-            duckbill_options = []
-
-            for _, row in df.iterrows():
-                row_vals = [clean_cell(v) for v in row]
-
-                positions = [i for i, val in enumerate(row_vals) if val.startswith("-")]
-
-                for idx, pos in enumerate(positions):
-
-                    entry = {
-                        "option_code": row_vals[pos],
-                        "part_no": row_vals[pos+1],
-                        "qty": parse_qty(row_vals[pos+2]),
-                        "material": row_vals[pos+3].replace("[","").replace("]","")
-                    }
-
-                    if idx == 0:
-                        ball_options.append(entry)
-                    elif idx == 1:
-                        duckbill_options.append(entry)
-
-            final_json["ball_options"] = ball_options
-            if duckbill_options:
-                final_json["duckbill_options"] = duckbill_options
 
 
         # --------------------------------------------------

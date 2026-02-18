@@ -7,8 +7,8 @@ from pathlib import Path
 # -----------------------------
 # CONFIG
 # -----------------------------
-PDF_PATH = "EP10.pdf"
-PAGE_NUMBER = 28
+PDF_PATH = "PX03P.pdf"
+PAGE_NUMBER = 5
 OUTPUT_DIR = Path("output_tables")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -98,7 +98,7 @@ with pdfplumber.open(PDF_PATH) as pdf:
             continue
 
         print("\n📄 TABLE FOUND:")
-        print(table)
+        print("table....................",table)
 
         header_idx = find_header_row(table)
         if header_idx is None:

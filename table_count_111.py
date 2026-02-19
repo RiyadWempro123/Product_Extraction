@@ -5,6 +5,7 @@ import re
 import json
 
 import common_parts_new, common_parts_new_22
+import mainfold_fluid
 
 # ==========================================================
 # CLEANING UTILITIES
@@ -20,18 +21,23 @@ def table_contains(df, keywords):
 def parse_all_tables(dfs):
 
     final_json = {}
+    df_mainfold = pd.DataFrame()
 
     for df in dfs:
-
-        full_text = " ".join(
-            str(cell) for row in df.values for cell in row if str(cell) != "nan"
-        ).upper()
         if "COMMON PARTS" in df:
             common_parts = common_parts_new.common_parts_to_json(df)
             final_json["common_parts"]=common_parts
             
         elif table_contains(df, ["MANIFOLD", "FLUID CAP"]):
-            print ("df1111111111111111222222222222", df)
+            df_mainfold = pd.concat([df_mainfold, df], ignore_index=True)
+            # print("Added a MANIFOLD/FLUID CAP table. Current length:", len(df_mainfold))
+            # df1+=df
+            # print("df1", df1 )
+        
+            # mainfold = mainfold_fluid.extract_parts_from_dataframe(df)
+            # final_json["mainfold"] = mainfold
+            # print ("df1111111111111111222222222222", df_mainfold)
+            
         elif table_contains(df, ["DIAPHRAGM"]):
             print("DIAPHRAGM Options")
             print("df33333", df)
@@ -42,51 +48,11 @@ def parse_all_tables(dfs):
    
         
 
-
-        # --------------------------------------------------
-        # 5️⃣ DIAPHRAGM OPTIONS
-        # --------------------------------------------------
-        elif "DIAPHRAGM OPTIONS" in full_text:
-
-            diaphragm_options = []
-
-            for _, row in df.iterrows():
-                row_vals = [clean_cell(v) for v in row]
-
-                for i, val in enumerate(row_vals):
-                    if val.startswith("-XX"):
-
-                        diaphragm_options.append({
-                            "option_code": val,
-                            "service_kit": row_vals[i+1],
-                            "diaphragm_part": row_vals[i+2],
-                            "qty": parse_qty(row_vals[i+3])
-                        })
-
-            final_json["diaphragm_options"] = diaphragm_options
-
-
-        # --------------------------------------------------
-        # 6️⃣ DUAL INLET / OUTLET
-        # --------------------------------------------------
-        elif "DUAL INLET" in full_text:
-
-            dual_kits = []
-
-            for _, row in df.iterrows():
-                row_vals = [clean_cell(v) for v in row]
-
-                if row_vals and row_vals[0].isdigit():
-
-                    dual_kits.append({
-                        "item": row_vals[0],
-                        "description": row_vals[1],
-                        "qty": parse_qty(row_vals[2]),
-                        "part_no": row_vals[3]
-                    })
-
-            final_json["dual_kits"] = dual_kits
-
+    print("\n \n ")
+    print ("df_mainfold", df_mainfold)
+    mainfold = mainfold_fluid.extract_manifold_json_from_dfs(df_mainfold)
+    final_json["mainfold"]=mainfold
+    print("Current Length", final_json)
     return final_json
 
 def clean_text(text):
@@ -116,7 +82,7 @@ SEAT_KEYWORDS = {"seat"}
 BALL_KEYWORDS = {"ball", "duckbill", "flex"}
 
 
-# ==========================================================
+# ========================================================== 
 # DETECT TABLE TYPE
 # ==========================================================
 
@@ -280,30 +246,7 @@ def process_page(pdf_path, page_number):
     json_output = parse_all_tables(all_tables)
 
     print(json.dumps(json_output, indent=2))
-    # for i, df in enumerate(all_tables, start=1):
-    #     print(f"----- Table {i} -----")
-    #     print(df)
-    #     print()
-    # final_output = {}
-
-    # for df in all_tables:
-
-    #     table_type = detect_table_type(df)
-
-    #     # Skip Seat tables completely
-    #     if table_type == "SEAT":
-    #         continue
-
-    #     # Handle Ball / Duckbill / Flex Check
-    #     if table_type == "BALL":
-
-    #         ball_entries = parse_ball_table(df)
-
-    #         if ball_entries:
-    #             final_output.setdefault("ball_options", []).extend(ball_entries)
-
-    # return final_output
-
+    
 
 # ==========================================================
 # RUN

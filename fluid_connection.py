@@ -99,4 +99,4 @@ def pdf_to_json(pdf_path, output_dir="output"):
 # --------------------------------------------------
 # RUN
 # --------------------------------------------------
-pdf_to_json("manual.pdf")
+pdf_to_json("PX03P.pdf")

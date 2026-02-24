@@ -11,6 +11,26 @@ def clean(val):
         return ""
     return str(val).replace("\n", " ").strip()
 
+def is_valid(value):
+    if value is None:
+        return False
+
+    value = str(value).strip()
+
+    invalid_values = ["", "-", "--", "---", "-----", "- - -", "- - - - -"]
+
+    return value not in invalid_values
+
+def safe_int(value):
+    value = str(value).strip()
+
+    if value in ["", "-", "--", "---", "- - -"]:
+        return None
+
+    try:
+        return int(value.replace("(", "").replace(")", ""))
+    except:
+        return None
 # --------------------------------------------------
 # EXTRACT TABLE DATAFRAME FROM PDF PAGE
 # --------------------------------------------------
@@ -72,26 +92,32 @@ def parse_diaphragm_df(df):
         # Controlled column mapping for PX03P
         try:
             # Diaphragm 7
-            if not pd.isna(row.iloc[2]) and str(row.iloc[2]) not in ["-----", "---", ""]:
+            if is_valid(row.iloc[2]):
+            # if not pd.isna(row.iloc[2]) and str(row.iloc[2]) not in ["-----", "---", ""]:
                 entry["components"]["diaphragm_7"] = {
                     "part_no": row.iloc[2],
-                    "qty": int(str(row.iloc[3]).replace("(", "").replace(")", "")),
+                    # "qty": int(str(row.iloc[3]).replace("(", "").replace(")", "")),
+                    "qty": safe_int(row.iloc[3]),
                     "material": str(row.iloc[4]).replace("[", "").replace("]", "")
                 }
 
             # Diaphragm 8
-            if not pd.isna(row.iloc[5]) and str(row.iloc[5]) not in ["-----", "---", ""]:
+            if is_valid(row.iloc[5]):
+            # if not pd.isna(row.iloc[5]) and str(row.iloc[5]) not in ["-----", "---", ""]:
                 entry["components"]["diaphragm_8"] = {
                     "part_no": row.iloc[5],
-                    "qty": int(str(row.iloc[6]).replace("(", "").replace(")", "")),
+                    # "qty": int(str(row.iloc[6]).replace("(", "").replace(")", "")),
+                    "qty": safe_int(row.iloc[6]),
                     "material": str(row.iloc[7]).replace("[", "").replace("]", "")
                 }
 
             # O-Ring 19
-            if not pd.isna(row.iloc[8]) and str(row.iloc[8]) not in ["-----", "---", ""]:
+            if is_valid(row.iloc[8]):
+            # if not pd.isna(row.iloc[8]) and str(row.iloc[8]) not in ["-----", "---", ""]:
                 entry["components"]["o_ring_19"] = {
                     "part_no": row.iloc[8],
-                    "qty": int(str(row.iloc[9]).replace("(", "").replace(")", "")),
+                    "qty": safe_int(row.iloc[9]),
+                    # "qty": int(str(row.iloc[9]).replace("(", "").replace(")", "")),
                     "material": str(row.iloc[10]).replace("[", "").replace("]", "")
                 }
         except IndexError:
@@ -108,7 +134,6 @@ def extract_px03p_diaphragm(pdf_path, page_number):
     df = extract_diaphragm_table(pdf_path, page_number)
     if df is None:
         return []
-
     json_data = {
         "table_name": "DIAPHRAGM OPTIONS",
         "model": "PX03P-XXS-XXX-AXXX",

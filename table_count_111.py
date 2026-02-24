@@ -5,7 +5,7 @@ import re
 import json
 
 import common_parts_new, common_parts_new_22
-import mainfold_fluid
+import mainfold_fluid, mainfold_fluid_1, diaphrgm_3
 
 # ==========================================================
 # CLEANING UTILITIES
@@ -30,6 +30,7 @@ def parse_all_tables(dfs):
             
         elif table_contains(df, ["MANIFOLD", "FLUID CAP"]):
             df_mainfold = pd.concat([df_mainfold, df], ignore_index=True)
+            
             # print("Added a MANIFOLD/FLUID CAP table. Current length:", len(df_mainfold))
             # df1+=df
             # print("df1", df1 )
@@ -39,8 +40,10 @@ def parse_all_tables(dfs):
             # print ("df1111111111111111222222222222", df_mainfold)
             
         elif table_contains(df, ["DIAPHRAGM"]):
-            print("DIAPHRAGM Options")
-            print("df33333", df)
+            dipram =diaphrgm_3.extract_diaphragm_options(df)
+            print("DIAPHRAGM Options", df)
+            print("df33333", dipram)
+            final_json["dipram"]=dipram
         elif table_contains(df, ["BALL"]):
             print("df444..", df)
         
@@ -50,8 +53,9 @@ def parse_all_tables(dfs):
 
     print("\n \n ")
     print ("df_mainfold", df_mainfold)
-    mainfold = mainfold_fluid.extract_manifold_json_from_dfs(df_mainfold)
+    mainfold = mainfold_fluid_1.extract_manifold_json_from_dfs(df_mainfold)
     final_json["mainfold"]=mainfold
+    
     print("Current Length", final_json)
     return final_json
 

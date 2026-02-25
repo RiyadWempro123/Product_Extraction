@@ -2,8 +2,8 @@ import pdfplumber
 import json
 import re
 
-PDF_FILE = "manual.pdf"
-PAGE_NUMBER = 7
+PDF_FILE = "PX20P.pdf"
+PAGE_NUMBER = 8
 OUTPUT_JSON = "air_section_parts.json"
 
 

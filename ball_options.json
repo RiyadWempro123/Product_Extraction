@@ -1,0 +1,38 @@
+[
+  {
+    "code": "-XAX",
+    "part_number": "93358-A",
+    "qty": 4,
+    "material": "SP"
+  },
+  {
+    "code": "-XSX",
+    "part_number": "94805",
+    "qty": 4,
+    "material": "SS"
+  },
+  {
+    "code": "-XCX",
+    "part_number": "93358-C",
+    "qty": 4,
+    "material": "H"
+  },
+  {
+    "code": "-XTX",
+    "part_number": "93358-4",
+    "qty": 4,
+    "material": "T"
+  },
+  {
+    "code": "-XGX",
+    "part_number": "93358-2",
+    "qty": 4,
+    "material": "B"
+  },
+  {
+    "code": "-XVX",
+    "part_number": "93358-3",
+    "qty": 4,
+    "material": "V"
+  }
+]

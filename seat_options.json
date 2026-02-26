@@ -1,0 +1,38 @@
+[
+  {
+    "code": "-DXX",
+    "part_number": "96580-2",
+    "qty": 4,
+    "material": "D"
+  },
+  {
+    "code": "-KXX",
+    "part_number": "96580-3",
+    "qty": 4,
+    "material": "K"
+  },
+  {
+    "code": "-PXX",
+    "part_number": "96580-1",
+    "qty": 4,
+    "material": "P"
+  },
+  {
+    "code": "-HPS-0XX",
+    "part_number": "96745",
+    "qty": 4,
+    "material": "P"
+  },
+  {
+    "code": "-HKS-2XX",
+    "part_number": "96745-1",
+    "qty": 4,
+    "material": "K"
+  },
+  {
+    "code": "-HDS-1XX",
+    "part_number": "96745-2",
+    "qty": 4,
+    "material": "D"
+  }
+]

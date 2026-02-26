@@ -5,7 +5,7 @@ import re
 import json
 
 import common_parts_new, common_parts_new_22
-import mainfold_fluid, mainfold_fluid_1, diaphrgm_3
+import mainfold_fluid, mainfold_fluid_1, diaphrgm_3, seat_options
 
 # ==========================================================
 # CLEANING UTILITIES
@@ -41,22 +41,25 @@ def parse_all_tables(dfs):
             
         elif table_contains(df, ["DIAPHRAGM"]):
             dipram =diaphrgm_3.extract_diaphragm_options(df)
-            print("DIAPHRAGM Options", df)
-            print("df33333", dipram)
+            # print("DIAPHRAGM Options", df)
+            # print("df33333", dipram)
             final_json["dipram"]=dipram
         elif table_contains(df, ["BALL"]):
-            print("df444..", df)
+            print("BALL..", df)
+        elif table_contains(df, ["SEAT"]):
+            seat  = seat_options.df_to_json(df)
+            print("SEAT..", df)
         
 
    
         
 
     print("\n \n ")
-    print ("df_mainfold", df_mainfold)
+    # print ("df_mainfold", df_mainfold)
     mainfold = mainfold_fluid_1.extract_manifold_json_from_dfs(df_mainfold)
     final_json["mainfold"]=mainfold
     
-    print("Current Length", final_json)
+    # print("Current Length", final_json)
     return final_json
 
 def clean_text(text):
@@ -240,6 +243,7 @@ def parse_ball_table(df):
     return results
 
 
+
 # ==========================================================
 # MAIN PROCESSOR
 # ==========================================================
@@ -258,7 +262,7 @@ def process_page(pdf_path, page_number):
 
 if __name__ == "__main__":
 
-    PDF_FILE = "PX03P.pdf"
+    PDF_FILE = "manual.pdf"
     PAGE_NUMBER = 5
 
     data = process_page(PDF_FILE, PAGE_NUMBER)

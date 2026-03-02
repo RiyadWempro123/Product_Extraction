@@ -1,0 +1,121 @@
+[
+  {
+    "item": "1",
+    "description": "Connecting Rod",
+    "part_no": "97146",
+    "qty": "1",
+    "material": "C"
+  },
+  {
+    "item": "131",
+    "description": "Screw (M8 x 1.25 - 6g x 95 mm)",
+    "part_no": "96001",
+    "qty": "4",
+    "material": "C"
+  },
+  {
+    "item": "5",
+    "description": "Back-Up Washer",
+    "part_no": "95990-3",
+    "qty": "2",
+    "material": "A"
+  },
+  {
+    "item": "144",
+    "description": "U\" Cup (3/4\" x 1-1/8\" OD)",
+    "part_no": "Y186-49",
+    "qty": "2",
+    "material": "B"
+  },
+  {
+    "item": "9",
+    "description": "Washer",
+    "part_no": "93189-1",
+    "qty": "2",
+    "material": "SS"
+  },
+  {
+    "item": "175",
+    "description": "O\" Ring (5/8\" x 13/16\" OD)",
+    "part_no": "Y325-114",
+    "qty": "2",
+    "material": "B"
+  },
+  {
+    "item": "14",
+    "description": "Bolt (M12 x 1.75-6g x 25mm)",
+    "part_no": "95997",
+    "qty": "2",
+    "material": "SS"
+  },
+  {
+    "item": "180",
+    "description": "Washer (0.406\" ID x 0.031\" thick)",
+    "part_no": "96006",
+    "qty": "4",
+    "material": "Co"
+  },
+  {
+    "item": "68",
+    "description": "Air Cap",
+    "part_no": "95994-6",
+    "qty": "1",
+    "material": "A"
+  },
+  {
+    "item": "181",
+    "description": "Roll Pin ( 0.156 x 0.500)",
+    "part_no": "Y178-52-S",
+    "qty": "4",
+    "material": "SS"
+  },
+  {
+    "item": "69",
+    "description": "Air Cap",
+    "part_no": "95994-5",
+    "qty": "1",
+    "material": "A"
+  },
+  {
+    "item": "195",
+    "description": "Nut (M8 x 1.25 - 6h)",
+    "part_no": "96005",
+    "qty": "4",
+    "material": "SS"
+  },
+  {
+    "item": "70",
+    "description": "Gasket",
+    "part_no": "95843",
+    "qty": "2",
+    "material": "B"
+  },
+  {
+    "item": "208",
+    "description": "Label",
+    "part_no": "93007",
+    "qty": "1",
+    "material": ""
+  },
+  {
+    "item": "74",
+    "description": "Pipe Plug (1/4 - 18 NPT)",
+    "part_no": "Y17-51-N",
+    "qty": "1",
+    "material": "C"
+  },
+  {
+    "item": "250",
+    "description": "Screw, Self-Tapping(1/4\" - 14 x 1/2\")",
+    "part_no": "Y334-104-C",
+    "qty": "1",
+    "material": "C"
+  },
+  {
+    "item": "126",
+    "description": "Pipe Plug (1/4 - 18 NPT)",
+    "part_no": "Y17-13-S",
+    "qty": "1",
+    "material": "SS"
+  }
+]

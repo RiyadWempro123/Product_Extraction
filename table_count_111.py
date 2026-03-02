@@ -25,9 +25,10 @@ def parse_all_tables(dfs):
 
     for df in dfs:
         if "COMMON PARTS" in df:
+            print("df..............................", df)
             common_parts = common_parts_new.common_parts_to_json(df)
             final_json["common_parts"]=common_parts
-            
+            print("common parts 4444", final_json )
         elif table_contains(df, ["MANIFOLD", "FLUID CAP"]):
             df_mainfold = pd.concat([df_mainfold, df], ignore_index=True)
             
@@ -46,7 +47,7 @@ def parse_all_tables(dfs):
             final_json["dipram"]=dipram
         elif table_contains(df, ["BALL"]):
             print("BALL..", df)
-        elif table_contains(df, ["SEAT"]):
+        elif table_contains(df, ["SEAT", "SEAT OPTIONS"]):
             seat  = seat_options.df_to_json(df)
             print("SEAT..", df)
         
@@ -262,7 +263,7 @@ def process_page(pdf_path, page_number):
 
 if __name__ == "__main__":
 
-    PDF_FILE = "manual.pdf"
+    PDF_FILE = "661PX.pdf"
     PAGE_NUMBER = 5
 
     data = process_page(PDF_FILE, PAGE_NUMBER)

@@ -1,0 +1,331 @@
+[
+  {
+    "item": "-XXX",
+    "description": "-XX (Diaphragm)",
+    "part_no": "Diaphragm",
+    "qty": "",
+    "material": "Mtl"
+  },
+  {
+    "item": "Diaphragm",
+    "description": "Qty",
+    "part_no": "\"O\" Ring",
+    "qty": "",
+    "material": "Qty"
+  },
+  {
+    "item": "-XX1",
+    "description": "637124-X1",
+    "part_no": "92755-1",
+    "qty": "2",
+    "material": "N"
+  },
+  {
+    "item": "---",
+    "description": "---",
+    "part_no": "Y325-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "-XX2",
+    "description": "637124-X2",
+    "part_no": "92755-2",
+    "qty": "2",
+    "material": "B"
+  },
+  {
+    "item": "---",
+    "description": "---",
+    "part_no": "Y325-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "-XX3",
+    "description": "637124-X3",
+    "part_no": "92755-3",
+    "qty": "2",
+    "material": "V"
+  },
+  {
+    "item": "---",
+    "description": "---",
+    "part_no": "Y328-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "-XX4",
+    "description": "637124-X4",
+    "part_no": "94617",
+    "qty": "2",
+    "material": "T"
+  },
+  {
+    "item": "94616",
+    "description": "(2)",
+    "part_no": "Y328-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "-XX6",
+    "description": "48496806",
+    "part_no": "48490064",
+    "qty": "2",
+    "material": "CP"
+  },
+  {
+    "item": "-XX9",
+    "description": "637124-X9",
+    "part_no": "94615-9",
+    "qty": "2",
+    "material": "H"
+  },
+  {
+    "item": "---",
+    "description": "---",
+    "part_no": "Y328-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "-XXB",
+    "description": "637124-XB",
+    "part_no": "94615-A",
+    "qty": "2",
+    "material": "Sp"
+  },
+  {
+    "item": "---",
+    "description": "---",
+    "part_no": "Y328-16",
+    "qty": "",
+    "material": "(4)"
+  },
+  {
+    "item": "",
+    "description": "",
+    "part_no": "NPTF",
+    "qty": null,
+    "material": "BSP"
+  },
+  {
+    "item": "",
+    "description": "NPTF",
+    "part_no": "Flange Model",
+    "qty": "",
+    "material": ""
+  },
+  {
+    "item": "Item",
+    "description": "Description (Size)",
+    "part_no": "Part No .",
+    "qty": "",
+    "material": "Part No ."
+  },
+  {
+    "item": "Mtl",
+    "description": "Part No .",
+    "part_no": "Part No .",
+    "qty": null,
+    "material": "Mtl"
+  },
+  {
+    "item": "15",
+    "description": "Fluid Cap",
+    "part_no": "92750",
+    "qty": "2",
+    "material": "92750"
+  },
+  {
+    "item": "A",
+    "description": "97621",
+    "part_no": "97621",
+    "qty": null,
+    "material": "SS"
+  },
+  {
+    "item": "16",
+    "description": "Manifold (6661X0 1X2 1XA1XC)",
+    "part_no": "92749",
+    "qty": "2",
+    "material": "92749-1"
+  },
+  {
+    "item": "A",
+    "description": "- - - - -",
+    "part_no": "- - - - -",
+    "qty": null,
+    "material": "- - -"
+  },
+  {
+    "item": "60",
+    "description": "Inlet Manifold (6661X1 1XB 1LE)",
+    "part_no": "- - - - -",
+    "qty": "1",
+    "material": "- - - - -"
+  },
+  {
+    "item": "- - -",
+    "description": "97624",
+    "part_no": "98341",
+    "qty": null,
+    "material": "SS"
+  },
+  {
+    "item": "61",
+    "description": "Outlet Manifold (6661X1 1XB 1LE)",
+    "part_no": "- - - - -",
+    "qty": "1",
+    "material": "- - - - -"
+  },
+  {
+    "item": "- - -",
+    "description": "97623",
+    "part_no": "98342",
+    "qty": null,
+    "material": "SS"
+  },
+  {
+    "item": "",
+    "description": "",
+    "part_no": "Part No .",
+    "qty": null,
+    "material": "Mtl"
+  },
+  {
+    "item": "26",
+    "description": "Bolt (3/8\" - 16 x 1-1/4\")",
+    "part_no": "Y6-66-C",
+    "qty": "8",
+    "material": "C"
+  },
+  {
+    "item": "27",
+    "description": "Bolt (5/16\" - 18 x 2-1/4\") (6661X0 1X2 1XA 1XC)",
+    "part_no": "Y6-510-C",
+    "qty": "4",
+    "material": "C"
+  },
+  {
+    "item": "29",
+    "description": "Nut (5/16\" - 18)",
+    "part_no": "Y12-5-C",
+    "qty": null,
+    "material": "C"
+  },
+  {
+    "item": "32",
+    "description": "Leg (6661X0 1X2 1XA1XC)",
+    "part_no": "92759",
+    "qty": "2",
+    "material": "C"
+  },
+  {
+    "item": "59",
+    "description": "Bolt (5/16\" - 18 x 2\") (6661X0-XX6-C)",
+    "part_no": "47512837001",
+    "qty": null,
+    "material": "C"
+  },
+  {
+    "item": "59",
+    "description": "(6661XB-XX6-C 6661LE-XX6-C)",
+    "part_no": "47512837001",
+    "qty": null,
+    "material": "C"
+  },
+  {
+    "item": "59",
+    "description": "(6661X0 1X2 1XA 1XC)",
+    "part_no": "93608",
+    "qty": null,
+    "material": "C"
+  },
+  {
+    "item": "59",
+    "description": "(6661X1 1XB 1LE)",
+    "part_no": "93608",
+    "qty": null,
+    "material": "C"
+  },
+  {
+    "item": "1",
+    "description": "Rod (6661XX-XX6-C)",
+    "part_no": "48489819",
+    "qty": "1",
+    "material": "C"
+  },
+  {
+    "item": "1",
+    "description": "(other models)",
+    "part_no": "98720-1",
+    "qty": "1",
+    "material": "C"
+  },
+  {
+    "item": "2",
+    "description": "O\" Ring (3/32\" x 1\" OD)",
+    "part_no": "Y330-117",
+    "qty": "1",
+    "material": "B"
+  },
+  {
+    "item": "5",
+    "description": "Plate (air side) (6661XX-XX6-C)",
+    "part_no": "48496673",
+    "qty": "2",
+    "material": "C"
+  },
+  {
+    "item": "5",
+    "description": "(Other models)",
+    "part_no": "92752",
+    "qty": "2",
+    "material": "C"
+  },
+  {
+    "item": "6",
+    "description": "Plate (fluid side)",
+    "part_no": "92775",
+    "qty": "2",
+    "material": "SS"
+  },
+  {
+    "item": "6",
+    "description": "(models 6661X0 only)",
+    "part_no": "92752",
+    "qty": "2",
+    "material": "C"
+  },
+  {
+    "item": "9",
+    "description": "Washer (0 .630\" ID)",
+    "part_no": "93065",
+    "qty": "2",
+    "material": "SS"
+  },
+  {
+    "item": "14",
+    "description": "Screw (5/8\" - 18 x 1-1/2\")",
+    "part_no": "Y5-107-T",
+    "qty": "2",
+    "material": "SS"
+  },
+  {
+    "item": "43",
+    "description": "Ground Lug (see page 7)",
+    "part_no": "93004",
+    "qty": "1",
+    "material": "Co"
+  },
+  {
+    "item": "30",
+    "description": "Shim (6661XX-XX6-C)",
+    "part_no": "48499875",
+    "qty": "",
+    "material": "C"
+  }
+]

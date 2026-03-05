@@ -2,7 +2,7 @@ import pdfplumber
 import json
 import re
 
-PDF_FILE = "PX03P.pdf"
+PDF_FILE = "manual.pdf"
 PAGE_NUMBER = 5
 OUTPUT_JSON = "seat_options.json"
 

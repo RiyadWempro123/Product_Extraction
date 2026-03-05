@@ -18,21 +18,15 @@
     "material": "P"
   },
   {
-    "code": "-HPS-0XX",
+    "code": "-SXX",
+    "part_number": "96537",
+    "qty": 4,
+    "material": "SS"
+  },
+  {
+    "code": "-0XX",
     "part_number": "96745",
     "qty": 4,
     "material": "P"
-  },
-  {
-    "code": "-HKS-2XX",
-    "part_number": "96745-1",
-    "qty": 4,
-    "material": "K"
-  },
-  {
-    "code": "-HDS-1XX",
-    "part_number": "96745-2",
-    "qty": 4,
-    "material": "D"
   }
 ]

@@ -38,4 +38,4 @@ def extract_actual_tables(pdf_path, output_dir="output_tables"):
     print(f"\n✅ Extraction complete — {table_count} tables saved.")
 
 if __name__ == "__main__":
-    extract_actual_tables("PX03P.pdf")
+    extract_actual_tables("PX07P.pdf")

@@ -2,7 +2,7 @@ import pdfplumber
 import json
 import re
 
-PDF_FILE = "PX20P.pdf"
+PDF_FILE = "PX05P.pdf"
 PAGE_NUMBER = 5
 OUTPUT_JSON = "ball_options.json"
 
@@ -41,7 +41,9 @@ def parse_ball_table(table):
 
         # Split row into left and right parts if table is two-part
         left_part = row[ball_start_index:ball_start_index + 5]  # adjust 5 if more columns per part
+        print("Left_Part", left_part)
         right_part = row[ball_start_index + 5:]  # remaining columns
+        print("Right_Part", right_part)
 
         # Function to parse a row slice
         def parse_columns(cols):

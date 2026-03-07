@@ -1,38 +1,50 @@
 [
   {
-    "code": "-XAX",
-    "part_number": "93358-A",
-    "qty": 4,
-    "material": "SP"
-  },
-  {
-    "code": "-XSX",
-    "part_number": "94805",
-    "qty": 4,
-    "material": "SS"
-  },
-  {
-    "code": "-XCX",
-    "part_number": "93358-C",
-    "qty": 4,
-    "material": "H"
-  },
-  {
-    "code": "-XTX",
-    "part_number": "93358-4",
-    "qty": 4,
-    "material": "T"
-  },
-  {
-    "code": "-XGX",
-    "part_number": "93358-2",
+    "code": "-X2X",
+    "part_number": "92757-2",
     "qty": 4,
     "material": "B"
   },
   {
-    "code": "-XVX",
-    "part_number": "93358-3",
+    "code": "-XAX",
+    "part_number": "94804",
+    "qty": 4,
+    "material": "SS"
+  },
+  {
+    "code": "-X3X",
+    "part_number": "92757-3",
     "qty": 4,
     "material": "V"
+  },
+  {
+    "code": "-XCX",
+    "part_number": "92757-C",
+    "qty": 4,
+    "material": "H"
+  },
+  {
+    "code": "-X4X",
+    "part_number": "92757-4",
+    "qty": 4,
+    "material": "T"
+  },
+  {
+    "code": "-XEX",
+    "part_number": "92757-A",
+    "qty": 4,
+    "material": "Sp"
+  },
+  {
+    "code": "-X6X",
+    "part_number": "92757-6",
+    "qty": 4,
+    "material": "D"
+  },
+  {
+    "code": "-X8X",
+    "part_number": "92757-8",
+    "qty": 4,
+    "material": "U"
   }
 ]

@@ -2,7 +2,7 @@ import pdfplumber
 import json
 import re
 
-PDF_FILE = "PX20P.pdf"
+PDF_FILE = "manual.pdf"
 PAGE_NUMBER = 5
 OUTPUT_JSON = "ball_options.json"
 
@@ -45,6 +45,7 @@ def parse_ball_table(table):
         row = [clean_text(c) if c else "" for c in row]
 
         # Split row into left and right parts for two-part tables
+        print("ball_start_index", ball_start_index)
         left_part = row[ball_start_index:ball_start_index + 5]  # adjust 5 if more columns per part
         right_part = row[ball_start_index + 5:]  # remaining columns
 
@@ -86,6 +87,7 @@ def extract_ball_options_from_pdf(pdf_file, page_number):
             return []
 
         for table in tables:
+            print("tables....................", table)
             ball_records = parse_ball_table(table)
             all_records.extend(ball_records)
 
